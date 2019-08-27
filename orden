@@ -1,0 +1,17 @@
+Ids
+Blacklist (=False)
+Cliente_Hogar
+Cliente --> Id
+Fecha --> Hogar, PO-Reserva
+Garantia
+Historico Mov Poliza Otras
+Historico Mov Poliza Ref
+Historico Sin Anteriores Otros
+Historico Sin Anteriores Ref
+Historico Siniestro Ref
+Hogar
+Mediador (=False)
+Pago
+PO Reserva--> Id
+Poliza
+Siniestro
